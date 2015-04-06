@@ -1,3 +1,5 @@
+**This project is no longer maintained as Facebook removed the functionality it was built on from HHVM.**
+
 # hhvm-wrapper
 
 **hhvm-wrapper** is a convenience wrapper for [HHVM](http://github.com/facebook/hhvm/).
